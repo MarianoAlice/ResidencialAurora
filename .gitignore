@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.history/
+settings.local.json
+Diretivas-da-Atividade/
+runtime/
+*.sqlite
+*.sqlite-journal
+*.db
